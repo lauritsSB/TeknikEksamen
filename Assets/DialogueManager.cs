@@ -29,7 +29,7 @@ public class DialogueManager : MonoBehaviour
             sentences.Enqueue(sentence);
         }
 
-//        DisplayNextSentence();
+    //DisplayNextSentence();
     }
     public void DisplayNextSentence ()
     {
